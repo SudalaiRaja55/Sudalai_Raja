@@ -10,7 +10,6 @@ Expertise in designing and implementing scalable, highly available application i
 * ✉️  You can contact me at [sudalairaja888@gmail.com](mailto:sudalairaja888@gmail.com)
 * 🧠  I'm learning Azure Cloud
 
-### Skills
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
