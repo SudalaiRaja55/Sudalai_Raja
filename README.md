@@ -1,11 +1,10 @@
-# Sudalai_Raja
 Hi I'm Sudalai Raja
 ====================================================================================================================================
 
-DevOps Engineer
+Senior DevOps Engineer @ Tiger Analytics
 ---------------
 
-Senior DevOps Engineer - AWS at Tiger Analytics with expertise in designing and implementing scalable, highly available application infrastructures. Experienced in deploying application upgrades, maintaining and monitoring infrastructure, and optimizing deployment processes. Known for enhancing system reliability while promoting DevOps best practices and fostering team collaboration.
+Expertise in designing and implementing scalable, highly available application infrastructures. Experienced in deploying application upgrades, maintaining and monitoring infrastructure, and optimizing deployment processes. Known for enhancing system reliability while promoting DevOps best practices and fostering team collaboration.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [sudalairaja888@gmail.com](mailto:sudalairaja888@gmail.com)
