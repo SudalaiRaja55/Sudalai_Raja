@@ -8,7 +8,7 @@ Expertise in designing and implementing scalable, highly available application i
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [sudalairaja888@gmail.com](mailto:sudalairaja888@gmail.com)
-* 🧠  I'm learning Azure Cloud
+* 🧠  I'm learning Machine Learning & GenAI
 
 
 <h3 align="left">Languages and Tools:</h3>
